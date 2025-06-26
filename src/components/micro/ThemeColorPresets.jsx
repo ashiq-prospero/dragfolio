@@ -1,7 +1,9 @@
-import PropTypes from 'prop-types';
 import { useMemo } from 'react';
+import PropTypes from 'prop-types';
+
 // @mui
-import { alpha, ThemeProvider, createTheme, useTheme } from '@mui/material/styles';
+import { alpha, useTheme, createTheme, ThemeProvider } from '@mui/material/styles';
+
 // hooks
 import useSettings from '../../hooks/useSettings';
 //

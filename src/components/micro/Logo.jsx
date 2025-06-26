@@ -1,8 +1,9 @@
 import PropTypes from 'prop-types';
 import { Link as RouterLink } from 'react-router-dom';
+
+import Box from '@mui/material/Box';
 // @mui
 import { useTheme } from '@mui/material/styles';
-import Box from '@mui/material/Box';
 
 // ----------------------------------------------------------------------
 

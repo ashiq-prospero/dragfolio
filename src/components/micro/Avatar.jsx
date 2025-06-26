@@ -1,7 +1,8 @@
 import PropTypes from 'prop-types';
 import { forwardRef } from 'react';
-import { useTheme } from '@mui/material/styles';
+
 import MUIAvatar from '@mui/material/Avatar';
+import { useTheme } from '@mui/material/styles';
 
 // ----------------------------------------------------------------------
 
